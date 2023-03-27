@@ -49,7 +49,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="curbe_Bezier.c">
+    <ClCompile Include="patrat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

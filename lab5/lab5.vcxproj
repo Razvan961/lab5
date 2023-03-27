@@ -152,7 +152,7 @@
     <ClInclude Include="..\..\laboratorul4\laboratorul4\glut.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="curbe_Bezier.c" />
+    <ClCompile Include="patrat.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
